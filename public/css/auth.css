@@ -1,0 +1,53 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+#auth {
+  background-image: url('../images/bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#auth .rgba {
+  background: #787878;
+  background: -moz-linear-gradient(top, #787878 0%, rgba(52, 52, 52, 0.5) 100%);
+  background: -webkit-linear-gradient(top, #787878 0%, rgba(52, 52, 52, 0.5) 100%);
+  background: -o-linear-gradient(top, #787878 0%, rgba(52, 52, 52, 0.5) 100%);
+  background: -ms-linear-gradient(top, #787878 0%, rgba(52, 52, 52, 0.5) 100%);
+  background: linear-gradient(to top, #787878 0%, rgba(52, 52, 52, 0.5) 100%);
+  height: 100%;
+  width: 100%;
+}
+
+.rounded-xl {
+  border-radius: 10px;
+}
+
+#auth .login {
+  box-shadow: 0 25px 30px -13px rgb(40 40 40 / 40%);
+  /* border-radius: 10px; */
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+#auth .btn {
+  min-width: 180px;
+}
+
+#auth a:hover {
+  text-decoration: none;
+}
+
+#auth .form-control::placeholder {
+  color: #cccccc;
+}

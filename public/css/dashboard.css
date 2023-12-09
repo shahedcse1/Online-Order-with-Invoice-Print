@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+html,
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.dashboard .card .form-group>label {
+  font-size: 12px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #888888;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.map.map-big,
+.card .map.map-big {
+  height: 480px;
+}
+
+.map,
+.card .map {
+  height: 280px;
+  border-radius: 4px;
+}
+
+.bor {
+  border-top: 1px solid #DDD;
+  border-bottom: 1px solid #DDD;
+}

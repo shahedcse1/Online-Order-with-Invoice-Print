@@ -1,0 +1,131 @@
+::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  border: 4px solid transparent;
+  border-radius: 8px;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar {
+  width: 16px;
+  scroll-behavior: smooth !important;
+}
+
+.dashboard .card {
+  margin-bottom: 0 !important;
+}
+
+.my__content .table__title {
+  position: absolute;
+  margin-top: 10px;
+  margin-bottom: 11px
+}
+
+.table>thead>tr>th {
+  border-bottom-width: 1px;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #9A9A9A;
+  font-weight: 400;
+  padding-bottom: 5px;
+}
+
+.table>tbody>tr>td,
+.table>tfoot>tr>td {
+  padding: 12px 8px;
+  vertical-align: middle;
+  border-color: #E3E3E3;
+  line-height: 1.42857143;
+  padding: 8px !important;
+}
+
+.table tbody tr:first-child td {
+  border-top: none;
+}
+
+.bootstrap-table .fixed-table-toolbar .columns .btn {
+  margin: 0 2px;
+  border-radius: 30px;
+  padding: 8px 16px;
+}
+
+
+.bootstrap-table .fixed-table-toolbar .columns label {
+  display: block;
+  padding: 10px 20px;
+  border-bottom: 1px solid #eee;
+  clear: both;
+  margin-bottom: 0;
+  font-weight: normal;
+  line-height: 1.428571429;
+}
+
+.bootstrap-table .fixed-table-toolbar .columns li:last-child label {
+  border-bottom: none;
+}
+
+.bootstrap-table .fixed-table-toolbar .columns .dropdown-menu {
+  right: 0;
+  left: auto;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+  z-index: 9000;
+  -webkit-box-shadow: 1px 2px 3px rgb(0 0 0 / 13%);
+  box-shadow: 1px 2px 3px rgb(0 0 0 / 13%);
+  transform: translate3d(-170px, 45px, 0) !important;
+}
+
+.bootstrap-table .fixed-table-toolbar .columns .dropdown-menu {
+  text-align: left;
+  max-height: 90vh;
+  overflow: auto;
+  -ms-overflow-style: unset;
+  z-index: 1001;
+  min-width: 15rem;
+}
+
+.bootstrap-table .fixed-table-body .card-view .title {
+  font-weight: bold;
+  display: inline-block;
+  min-width: 30%;
+  text-align: left !important;
+}
+
+.bootstrap-table .fixed-table-container .no-records-found {
+  text-align: center;
+  background-color: #FFFFFF !important;
+  height: 340px;
+  border-radius: 10px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.bootstrap-table .fixed-table-pagination .page-list .btn {
+  border-radius: 30px !important;
+}
+
+.bootstrap-table .fixed-table-pagination .page-list .dropdown-menu>li:first-child>a {
+  margin-top: 5px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.bootstrap-table .fixed-table-pagination .page-list .dropdown-menu {
+  padding: 0;
+  border-radius: 10px;
+  z-index: 9000;
+  -webkit-box-shadow: 1px 2px 3px rgb(0 0 0 / 13%);
+  box-shadow: 1px 2px 3px rgb(0 0 0 / 13%);
+}
+
+.bootstrap-table .fixed-table-pagination .page-list .dropdown-menu>li>a {
+  padding: 8px 16px;
+  color: #333333;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
+
+.bootstrap-table .fixed-table-pagination .page-list .dropdown-menu>li:last-child>a {
+  border-bottom: 0;
+}

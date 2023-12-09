@@ -1,0 +1,28 @@
+[09-Dec-2023 18:35:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 17
+[09-Dec-2023 18:35:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 21
+[09-Dec-2023 18:36:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 21
+[09-Dec-2023 18:36:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 17
+[09-Dec-2023 18:36:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 17
+[09-Dec-2023 18:37:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 17
+[09-Dec-2023 18:37:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/jafrinsh/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/jafrinsh/public_html/index.php on line 17
